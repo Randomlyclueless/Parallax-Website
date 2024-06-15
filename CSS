@@ -1,0 +1,104 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8em;
+   
+}
+.ptext{
+  
+    position:absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.textbg{
+background: #ecc594;
+color: #090909;
+padding: 30px;
+opacity: 90%;
+}
+
+
+.pimg{
+    background-image: url(pimg.webp);
+    min-height: 200%;
+    position: absolute;
+padding-top: 60px;
+
+background-color: #f4f4f4;
+}
+
+.parvati{
+    background-image: url(p1.jpeg);
+    min-height: 200%;
+}
+.sarasbaug{
+    background-image: url(s1.jpg);
+    min-height: 200%;
+}
+.wada{
+    background-image: url(W1.jpeg);
+    min-height: 200%;
+}
+
+.hehe{
+    background-image: url(T.avif);
+    min-height: 100%;
+}
+
+.pimg,
+ .parvati,
+  .sarasbaug, 
+  .wada, 
+
+  .hehe{
+                position: relative;
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+}
+.pune{
+    font-size: 30px;
+    text-align: center;
+    font-style: normal;
+    color: black;
+    top: 10px;padding-top: 20px;
+    
+}
+.info1{
+font-size: 20px;
+font-style: normal;
+padding-left: 20%;
+padding-right: 20%;
+
+}
+.pune-light{
+background-color: #f4f4f4;
+
+}
+.text1{
+
+color: rgb(7, 7, 7);
+font-size: 30px;
+font-style: normal;
+padding-left: 20%;
+padding-right: 20%;
+background-color: rgba(195, 195, 82, 0.8);
+padding-top: 5%;
+font-display:auto ;
+padding-bottom: 5%;
+}
+.text2{
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+
